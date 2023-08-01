@@ -63,3 +63,6 @@ admin.site.register(Coupon)
 admin.site.register(Refund)
 admin.site.register(Address, AddressAdmin)
 admin.site.register(UserProfile)
+
+
+# Django was not configured. For more information run pylint --load-plugins=pylint_django --help-msg=django-not-configured
