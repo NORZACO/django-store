@@ -139,3 +139,11 @@ cython_debug/
 
 static_root
 media_root
+dabas.sqlite3
+.vscode/PythonImportHelper-v2-Completion.json
+static_in_env/.DS_Store
+static_in_env/js/.DS_Store
+templates/.DS_Store
+djecommerce/.DS_Store
+core/.DS_Store
+.DS_Store
